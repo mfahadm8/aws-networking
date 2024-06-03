@@ -1,4 +1,4 @@
-# Enigma: AWS Network Provisioning
+# AWS Network Provisioning
 
 ## Overview
 
